@@ -4,10 +4,12 @@
  */
 package core;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author juand
  */
-public class Artista {
-    
+public class Artista extends Persona{
+    private ArrayList<Cancion>canciones;
 }

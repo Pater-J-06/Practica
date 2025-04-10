@@ -4,10 +4,12 @@
  */
 package core;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author juand
  */
-public class Invitado {
-    
+public class Invitado extends Persona{
+    ArrayList<Emision> emisiones;
 }

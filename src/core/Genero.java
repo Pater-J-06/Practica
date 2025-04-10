@@ -8,6 +8,9 @@ package core;
  *
  * @author juand
  */
-public class Genero {
+public enum Genero {
+    ROCK,
+    CLASICA,
+    TROPICAL
     
 }

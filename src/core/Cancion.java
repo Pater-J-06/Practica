@@ -9,5 +9,7 @@ package core;
  * @author juand
  */
 public class Cancion {
-    
+    private String nombre;
+    private Artista artista;
+    private Genero genero;
 }
