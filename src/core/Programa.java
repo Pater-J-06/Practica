@@ -5,27 +5,18 @@
 package core;
 
 import core.Locutor;
-import core.Programa;
 import java.util.ArrayList;
 
 /**
  *
  * @author joelp
  */
-public class RockRollRadio {
+public class Programa {
     
-    private ArrayList<Artista> artistas;
-    private ArrayList<Cancion> canciones;
-    private ArrayList<Invitado> invitados;
+    private String nombre;
+    private int serial;
+    private ArrayList<Emision> emisiones;
     private ArrayList<Locutor> locutores;
-    private ArrayList<Programa> programas;
-    
-    
-    
-    
-    
-    
-    
     
     
     
